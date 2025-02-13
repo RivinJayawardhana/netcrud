@@ -95,3 +95,4 @@
 /Users/donmariopriyankasubasinghe/Desktop/netcrud/obj/Debug/net9.0/netcrud.pdb
 /Users/donmariopriyankasubasinghe/Desktop/netcrud/obj/Debug/net9.0/netcrud.genruntimeconfig.cache
 /Users/donmariopriyankasubasinghe/Desktop/netcrud/obj/Debug/net9.0/ref/netcrud.dll
+/Users/donmariopriyankasubasinghe/Desktop/netcrud/obj/Debug/net9.0/netcrud.sourcelink.json
